@@ -9,8 +9,9 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
+    "bootstrap": "^5.1.2",
+    "bootstrap-vue": "^2.21.2",
     "knex": "0.21.18",
     "pg": "^8.6.0",
     "strapi": "3.6.2",
